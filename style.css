@@ -496,7 +496,7 @@
        border: 3px solid #306998;
        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
       }
-@media (max-width: 768px {
+@media (max-width: 768px) {
         .about-content {
                flex-direction: column !important;
                align-items: center;
@@ -505,7 +505,7 @@
     }
        .about-img img {
               width: 120px;
-              heigth: 120px
+              height: 120px;
        }
        .hero-content h1 {
               font-size: 1.8rem;
